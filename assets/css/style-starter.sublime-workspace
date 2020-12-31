@@ -1,0 +1,464 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"colo",
+				"color:blue\t⟠"
+			],
+			[
+				"p",
+				"piyush"
+			],
+			[
+				"s",
+				"style.display\t⟠"
+			],
+			[
+				"docum",
+				"document.write\t⟠"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"oncl",
+				"onclick\tAttr"
+			],
+			[
+				"1",
+				"1px solid gray\t⟠"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"mag",
+				"margin-top\tproperty"
+			],
+			[
+				"left",
+				"padding-left\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"marker",
+				"marker-end\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"border",
+				"border-right\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"backgr",
+				"background\tproperty"
+			],
+			[
+				"fo",
+				"form-check"
+			],
+			[
+				"pi",
+				"pi"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"on",
+				"onblur\tAttr"
+			],
+			[
+				"onmouseo",
+				"onmouseover\tAttr"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"te",
+				"text-align-last\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"fonts",
+				"font-style\tproperty"
+			],
+			[
+				"word",
+				"word-spacing\tproperty"
+			],
+			[
+				"t",
+				"text-align-last\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"sty",
+				"border-style\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"co",
+				"border-color\tproperty"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"top",
+				"margin-top\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"textt",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"text-a",
+				"text-transform\tproperty"
+			],
+			[
+				"texr",
+				"text-decoration\tproperty"
+			],
+			[
+				"b",
+				"border-image-source\tproperty"
+			],
+			[
+				"borde",
+				"border-style\tproperty"
+			],
+			[
+				"shad",
+				"text-shadow\tproperty"
+			],
+			[
+				"spacin",
+				"word-spacing\tproperty"
+			],
+			[
+				"size",
+				"font-size\tproperty"
+			],
+			[
+				"bord",
+				"border-width\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"text-dee",
+				"text-underline-position\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration-style\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/webdemo/mmmm.html",
+		"/C/Users/piyush/Desktop/index.html",
+		"/C/Users/piyush/Desktop/me.html",
+		"/C/xampp/htdocs/webdemo/number.php",
+		"/C/Users/piyush/AppData/Local/Temp/kite_tutorial.py",
+		"/C/xampp/htdocs/webdemo/Home.html",
+		"/C/xampp/htdocs/webdemo/show.php",
+		"/C/xampp/htdocs/p/index.php",
+		"/C/Users/piyush/Desktop/bookstore.xsl",
+		"/C/Users/piyush/Desktop/piyush.html",
+		"/C/Users/piyush/Desktop/khosla sahab.html",
+		"/C/Users/piyush/Desktop/ccc.html",
+		"/C/Users/piyush/Desktop/asterix2.html",
+		"/C/Users/piyush/Desktop/Mens.html",
+		"/C/Users/piyush/Desktop/student.html",
+		"/C/Users/piyush/Desktop/nnn.html",
+		"/C/Users/piyush/Desktop/pk.html",
+		"/C/Users/piyush/Desktop/chacha.html",
+		"/C/Users/piyush/Desktop/womens.html",
+		"/C/Users/piyush/Desktop/9696.html",
+		"/C/Users/piyush/Desktop/new div.html",
+		"/C/Users/piyush/Desktop/khosla.7654321.html",
+		"/C/Users/piyush/Desktop/ovi.html",
+		"/C/Users/piyush/Desktop/352.html",
+		"/C/Users/piyush/Desktop/p52.html",
+		"/C/Users/piyush/Desktop/77.html",
+		"/C/Users/piyush/Desktop/asterisk.html",
+		"/C/Users/piyush/Desktop/div.html",
+		"/C/Users/piyush/Desktop/iframe.html",
+		"/C/Users/piyush/Desktop/piyush.php",
+		"/C/Users/piyush/Desktop/p.html",
+		"/C/Users/piyush/Desktop/piyush555555.html",
+		"/C/Users/piyush/Desktop/khosla.css",
+		"/C/Users/piyush/Desktop/ppppp.html",
+		"/C/Users/piyush/Desktop/p96.html",
+		"/C/Users/piyush/Desktop/form.html"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style-starter.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
